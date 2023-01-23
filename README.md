@@ -180,7 +180,7 @@ The following is a *tentative* course schedule. Important Changes to this schedu
 | **1: 1/23** | **Introduction to the Python Programming Language; Download: Python, IDLE, PyCharm, Jupyter Notebook (Anaconda); Access to GitHub Classroom and Assignment One; Submission of Assignment to GitHub** |
 | **2: 1/30** | **Introducing Python Object Types, Numeric Types, The dynamic Typing Interlude, String Fundamentals, Lists and Dictionaries, Tuples** |
 | **3: 2/6** | **Assignments, Expressions, if Statements, while and for loops, iterations and comprehensions** |
-| **4: 2/13** | Function Basics, Scopes, Arguments, Advanced Function Topics |
+| **4: 2/13** | **Function Basics, Scopes, Arguments, Advanced Function Topics** |
 | **No Class on Monday, February 20th** | **President's Day** |
 | **5: Wednesday, Feb. 22nd University is following a MOnday academic calendar** | **Comprehensions and Generations, The benchmarking Interlude** |
 | **6: 2/27** | **Modules: The Big Picture, Module Coding Basics, Module Packages** |
