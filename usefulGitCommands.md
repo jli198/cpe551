@@ -5,7 +5,7 @@
 ### current directory
 
 ```sh
-* cd
+cd
 ```
 
 ### list files
