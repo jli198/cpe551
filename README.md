@@ -129,10 +129,10 @@ The following procedures apply to quizzes and exams for this course. As the inst
 2. Students may **not** use the following material during quizzes and exams. Any materials that are not mentioned in the list below are also **not** permitted.
 
 **Material**
-Handwritten Notes (*Conditions: one A4 sheet*)
-Typed Notes (*Conditions: one A4 sheet*)
-Textbooks (*Conditions: textbooks as defined in "Course Materials"*)
-Readings (*Conditions: other readings as defined in "Course Materials" and printouts of lecture interactive materials*)
+Handwritten Notes (*Conditions: one A4 sheet*) </br>
+Typed Notes (*Conditions: one A4 sheet*) </br>
+Textbooks (*Conditions: textbooks as defined in "Course Materials"*) </br>
+Readings (*Conditions: other readings as defined in "Course Materials" and printouts of lecture interactive materials*) </br>
 
 3. Students *are not* allowed to work with or talk to other students during quizzes and/or exams.
 
@@ -176,6 +176,7 @@ The following is a *tentative* course schedule. Important Changes to this schedu
 ### AAI/CPE/EE 551 Section B: Course Schedule; Spring 2023
 
 | **Week:** **Month/Date** | **Topic Covered** |
+| --- | --- |
 | **1: 1/23** | **Introduction to the Python Programming Language; Download: Python, IDLE, PyCharm, Jupyter Notebook (Anaconda); Access to GitHub Classroom and Assignment One; Submission of Assignment to GitHub** |
 | **2: 1/30** | **Introducing Python Object Types, Numeric Types, The dynamic Typing Interlude, String Fundamentals, Lists and Dictionaries, Tuples** |
 | **3: 2/6** | **Assignments, Expressions, if Statements, while and for loops, iterations and comprehensions** |
