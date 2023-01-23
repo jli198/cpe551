@@ -48,7 +48,7 @@ The objectives are to
 (Lecture notes will be uploaded to the Canvas course website). </br>
 Textbook(s):
 
-* Lutz, Mark. 5th Edition. *Learning Python*. O'Reilly Media, Inc. ISBN: 978-1-449-35573-9
+* Lutz, Mark. 5<sup>th</sup> Edition. *Learning Python*. O'Reilly Media, Inc. ISBN: 978-1-449-35573-9
 
 Other Readings: None
 
