@@ -181,7 +181,7 @@ The following is a *tentative* course schedule. Important Changes to this schedu
 | **3: 2/6** | **Assignments, Expressions, if Statements, while and for loops, iterations and comprehensions** |
 | **4: 2/13** | **Function Basics, Scopes, Arguments, Advanced Function Topics** |
 | **No Class on Monday, February 20th** | **President's Day** |
-| **5: Wednesday, Feb. 22nd University is following a MOnday academic calendar** | **Comprehensions and Generations, The benchmarking Interlude** |
+| **5: Wednesday, Feb. 22nd University is following a Monday academic calendar** | **Comprehensions and Generations, The benchmarking Interlude** |
 | **6: 2/27** | **Modules: The Big Picture, Module Coding Basics, Module Packages** |
 | **7: 3/6** | **OOP: The Big Picture, Class Coding Basics** |
 | **No Class on Monday March 13th** | **SPRING RECESS** |
