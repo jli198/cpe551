@@ -11,7 +11,6 @@ Classroom Location: Kidde Building Room 228 </br>
 Professor: Dr. Kevin Ryan </br>
 Contact Info: kryan@stevens.edu (Please do not use Canvas email); Babbio Center 415 </br>
 </br>
-Office Hours: **3:00 PM - 5:00 PM Thursday** (Babbio Center Room 415) </br>
 [Course Website](https://sit.instructure.com/courses/63139) </br>
 Please note: I am available to meet at other times. Please contact me to schedule a Zoom meeting. </br>
 </br>
