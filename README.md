@@ -17,7 +17,6 @@ Please note: I am available to meet at other times. Please contact me to schedul
 Prerequisite(s): Basic knowledge of programming </br>
 Corequisite(s): None </br>
 Cross-listed: AAI 551, CPE 551, EE 551 </br>
-</br>
 
 ## COURSE DESCRIPTION
 
@@ -65,10 +64,10 @@ Other Readings: None
 ## GRADING PROCEDURES
 
 Grades will be based on: </br>
-Homework & In-Class Exercises **(40%)**
-Mid-term Exam **(20%)**
-Project **(20%)**
-Final Exam (**20%**)
+Homework & In-Class Exercises **(40%)** </br>
+Mid-term Exam **(20%)** </br>
+Project **(20%)** </br>
+Final Exam **(20%)** </br>
 
 ---
 Total **100%**
@@ -127,7 +126,7 @@ The following procedures apply to quizzes and exams for this course. As the inst
 
 2. Students may **not** use the following material during quizzes and exams. Any materials that are not mentioned in the list below are also **not** permitted.
 
-**Material**
+**Material** </br>
 Handwritten Notes (*Conditions: one A4 sheet*) </br>
 Typed Notes (*Conditions: one A4 sheet*) </br>
 Textbooks (*Conditions: textbooks as defined in "Course Materials"*) </br>
